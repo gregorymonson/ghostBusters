@@ -8,3 +8,5 @@ In this variant, ghosts are invisible, and Pacman is hunting them.
 At each time step, ghosts move, and Pacman receives noisy distance estimates for each ghost, and decides where to move to eat all ghosts as soon as possible.
 
 Various learning models are implemented, including exact Bayesian inference and particle filtering.
+
+Final project for Artificial Intelligence (CS188) at UC Berkeley
